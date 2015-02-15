@@ -2,6 +2,7 @@
 	A GLSL video filter example which uses webcam and microphone input.
 	
 	Copyright 2015 Jeremy Carter (Jeremy@JeremyCarter.ca)
+	Copyright 2015 Daphne Volante (Daphne.volante@eternalvoid.net)
 	
 	Free to use and modify for any purpose, but you must only add additional
 	copyright notices and never remove any which were already there (directly above
